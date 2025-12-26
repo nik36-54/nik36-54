@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Niraj.
 
 # 💫 About Me:
-🚀 Working on: AI Agents, Voice AI, & LLM Application 🧠🎙️<br>🤝 Collab on: Cybersecurity, Speech AI, & Backend Dev 🔐🔧<br>🛠️ Need help with: Scaling & optimizing AI models ⚡📈<br>📖 Learning: LLM automation & cloud deployment ☁️🤖<br>💡 Ask me about: AI/ML, NLP, & Adversarial ML 🔍🎯<br>🎉 Fun Fact: I break AI to make it stronger! 😆🔥
+🚀 Working on: AI Agents, Voice AI, & LLM Application 🧠🎙️<br>🤝 Collab on: Backend Dev, AI Application, & Building complex systems 🔐🔧<br>🛠️ Need help with: Scaling & optimizing AI models ⚡📈<br>📖 Learning: LLM automation & cloud deployment ☁️🤖<br>💡 Ask me about: AI/ML, NLP, & Adversarial ML 🔍🎯<br>🎉 Fun Fact: I break AI to make it stronger! 😆🔥
 
 
 ## 🌐 Socials:
